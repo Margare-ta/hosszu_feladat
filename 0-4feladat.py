@@ -51,10 +51,5 @@ else:
 
 #feladat 5
 
-num = int(input("Kérek egy háromjegyű számot!"))
-num1
 
 
-if num<100 or num>=1000:
-    print("Ez a szám nem háromjegyű")
-elif num
